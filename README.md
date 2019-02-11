@@ -9,6 +9,6 @@ Repository for the informatics data analysts. This repository will serve as a ce
 
 2. **SPARK**
    - Repositories
-     - [Datamart](https://github.com/simonsfoundation/spark_datamart)
+     - [Data Mart](https://github.com/simonsfoundation/spark_datamart)
      - [Dashboard](https://github.com/simonsfoundation/spark_dashboard)
      - [Data Explorer](https://github.com/simonsfoundation/spark_data-explorer)
